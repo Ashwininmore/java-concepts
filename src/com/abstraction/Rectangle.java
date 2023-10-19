@@ -1,4 +1,5 @@
 package com.abstraction;
+//100% abstraction
 abstract class Shape{
 	int length;
 	int width;
