@@ -1,5 +1,5 @@
 package com.abstraction;
-
+//100% abstraction
 interface Template{
 	void idea();
 	public void design();
