@@ -14,7 +14,7 @@ public class Dog extends Animal{
 		// TODO Auto-generated constructor stub
 	}
 	String breed;
-	Sting 
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
