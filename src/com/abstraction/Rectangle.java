@@ -1,8 +1,8 @@
 package com.abstraction;
 //100% abstraction
 abstract class Shape{
-	int length;
-	int width;
+	 int length;
+	 int width;
 	public abstract void area(int length, int width);
 }
 public class Rectangle extends Shape{
