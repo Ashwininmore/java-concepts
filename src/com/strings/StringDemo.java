@@ -9,6 +9,7 @@ public class StringDemo {
 //		name.concat("sathya");
 		
 //		System.out.println(name);
+		//comes from stringclass
 		System.out.println(name.equals(name1));//t //check the values are equal or not
 		System.out.println(name==name1);//t //will check both referring to same location or not
 	
